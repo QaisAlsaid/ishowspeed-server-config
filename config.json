@@ -1,0 +1,10 @@
+{
+  "latest_version": "0.1.0",
+  "min_supported_version": "0.0.1",
+  "message": "",
+  "downloads": {
+    "android": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.0/ishowspeed-release.apk",
+    "linux": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed-app/releases/download/v0.1.0/ishowspeed-linux-x64.tar.gz",
+    "web": "https://superhackerhashidaitaru.codeberg.page/ishowspeed/webapp/"
+  }
+}
