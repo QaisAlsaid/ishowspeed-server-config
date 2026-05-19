@@ -1,10 +1,14 @@
 {
-  "latest_version": "0.1.0",
+  "latest_version": "0.1.3",
   "min_supported_version": "0.0.1",
   "message": "",
   "downloads": {
     "android": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.0/ishowspeed-release.apk",
     "linux": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed-app/releases/download/v0.1.0/ishowspeed-linux-x64.tar.gz",
-    "web": "https://superhackerhashidaitaru.codeberg.page/ishowspeed/webapp/"
+    "web": "https://superhackerhashidaitaru.codeberg.page/ishowspeed/webapp/",
+    "android_universal": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-universal.apk",
+    "android_armv8": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-armv8.apk",
+    "android_armv7": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-armv7.apk",
+    "android_x64": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-x86_64.apk"
   }
 }
