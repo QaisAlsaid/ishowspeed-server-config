@@ -9,6 +9,7 @@
     "android_universal": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-universal.apk",
     "android_armv8": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-armv8.apk",
     "android_armv7": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-armv7.apk",
-    "android_x64": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-x86_64.apk"
+    "android_x64": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-android-x86_64.apk",
+    "windows": "https://codeberg.org/SuperHackerHashidaItaru/ishowspeed/releases/download/v0.1.3/ishowspeed-release-windows-x64.zip"
   }
 }
